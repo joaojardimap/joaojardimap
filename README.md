@@ -5,7 +5,7 @@ I am a Computer Engineering student dedicated to building robust database archit
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 **Current Proficiency:**
 * **Database:** Microsoft SQL Server (Transact-SQL) — Specialized in Stored Procedures, ACID Transactions, and Relational Mapping.
@@ -19,7 +19,7 @@ I am a Computer Engineering student dedicated to building robust database archit
 ---
 
 ### 📊 Featured Project: MusicStore Management
-**[Link para o repositório aqui]**
+**https://github.com/joaojardimap/transact-sql-projects**
 * **Transactional Integrity:** Implemented a full user onboarding pipeline using `BEGIN TRANSACTION` and `COMMIT TRANSACTION`.
 * **Modular Architecture:** Developed 13 linked stored procedures to handle complex many-to-many relationships (Artists, Songs, and Categories).
 * **Security:** Created secure login validation logic and soft-delete filters.
@@ -35,5 +35,5 @@ I am a Computer Engineering student dedicated to building robust database archit
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [Seu Link do LinkedIn]
+* **LinkedIn:**
 * **Email:** joaopedrojardimap@gmail.com
