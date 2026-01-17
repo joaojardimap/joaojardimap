@@ -8,8 +8,8 @@ I am a Computer Engineering student dedicated to building robust database archit
 ### 🛠️ Tech Stack
 
 **Current Proficiency:**
-* **Database:** Microsoft SQL Server (Transact-SQL) — Specialized in Stored Procedures, ACID Transactions, and Relational Mapping.
-* **Programming:** Python (Foundations of Data Science), SQL Code.
+* **Database:** Microsoft SQL Server.
+* **Programming:** Python (Basic), Transact-SQL.
 * **Tools:** Git, GitHub, VS Code, SQL Server Management Studio (SSMS).
 
 **Learning Path:**
