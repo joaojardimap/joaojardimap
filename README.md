@@ -1,11 +1,11 @@
-# Hi there! I'm Joao Pedro Jardim 👋
+# Hi there! I'm Joao Pedro Jardim 
 
-### 🎓 Future Computer Engineer | Backend & Data Enthusiast
+### Future Computer Engineer | Backend & Data Enthusiast
 I am a Computer Engineering student dedicated to building robust database architectures and scalable backend solutions. I enjoy solving complex logic problems, optimizing data workflows, and implementing secure database transactions.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Current Proficiency:**
 * **Database:** Microsoft SQL Server.
@@ -18,7 +18,7 @@ I am a Computer Engineering student dedicated to building robust database archit
 
 ---
 
-### 📊 Featured Project: MusicStore Management
+### Featured Project: MusicStore Management
 **https://github.com/joaojardimap/transact-sql-projects**
 * **Transactional Integrity:** Implemented a full user onboarding pipeline using `BEGIN TRANSACTION` and `COMMIT TRANSACTION`.
 * **Modular Architecture:** Developed 13 linked stored procedures to handle complex many-to-many relationships (Artists, Songs, and Categories).
@@ -26,7 +26,7 @@ I am a Computer Engineering student dedicated to building robust database archit
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,6 +34,6 @@ I am a Computer Engineering student dedicated to building robust database archit
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 * **LinkedIn:**
 * **Email:** joaopedrojardimap@gmail.com
