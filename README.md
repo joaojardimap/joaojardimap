@@ -35,5 +35,5 @@ I am a Computer Engineering student dedicated to building robust database archit
 ---
 
 ### Connect with me:
-* **LinkedIn:**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-PERFIL/)](https://www.linkedin.com/in/SEU-PERFIL/)*
 * **Email:** joaopedrojardimap@gmail.com
