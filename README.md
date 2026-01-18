@@ -35,5 +35,5 @@ I am a Computer Engineering student dedicated to building robust database archit
 ---
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-PERFIL/)](https://www.linkedin.com/in/SEU-PERFIL/)
+[LinkedIn - João Pedro Jardim](https://www.linkedin.com/in/joão-pedro-jardim-677abb3a6)
 * **Email:** joaopedrojardimap@gmail.com
