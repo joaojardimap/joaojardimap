@@ -1,4 +1,4 @@
-# Hi there! I'm Joao Pedro Jardim 
+# Joao Pedro Jardim 
 
 ### Future Computer Engineer | Backend & Data Enthusiast
 I am a Computer Engineering student dedicated to building robust database architectures and scalable backend solutions. I enjoy solving complex logic problems, optimizing data workflows, and implementing secure database transactions.
